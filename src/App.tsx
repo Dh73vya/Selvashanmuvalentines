@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import welcome from "./assets/welcome.jpg";
+
 import mamanmagal from "./assets/mamanmagal.jpg";
 import usImg from "./assets/us.jpg";
 import memoryImg from "./assets/memory.jpg";
